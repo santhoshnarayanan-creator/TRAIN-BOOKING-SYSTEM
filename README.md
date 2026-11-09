@@ -31,17 +31,6 @@ java -cp out trainbooking.TrainBookingApp
 
 The included train and booking data is held in memory and resets when the application exits.
 
-## GitHub submission
+## GitHub repository
 
-Create an empty GitHub repository, then from this project directory run:
-
-```sh
-git init
-git add .
-git commit -m "Add Java train booking system"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
-
-Replace the remote URL with the repository URL from your GitHub account. Submit that repository link.
+[View the Train Booking System repository](https://github.com/santhoshnarayanan-creator/TRAIN-BOOKING-SYSTEM)
